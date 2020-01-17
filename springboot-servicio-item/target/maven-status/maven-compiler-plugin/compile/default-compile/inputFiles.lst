@@ -1,0 +1,9 @@
+/home/mfgutierrez/Documents/SpringAPP/springboot-servicio-item/src/main/java/com/proyecto/springboot/app/item/clientes/ProductoClienteRest.java
+/home/mfgutierrez/Documents/SpringAPP/springboot-servicio-item/src/main/java/com/proyecto/springboot/app/item/SpringbootServicioItemApplication.java
+/home/mfgutierrez/Documents/SpringAPP/springboot-servicio-item/src/main/java/com/proyecto/springboot/app/item/models/Producto.java
+/home/mfgutierrez/Documents/SpringAPP/springboot-servicio-item/src/main/java/com/proyecto/springboot/app/item/models/Item.java
+/home/mfgutierrez/Documents/SpringAPP/springboot-servicio-item/src/main/java/com/proyecto/springboot/app/item/models/service/ItemServiceImpl.java
+/home/mfgutierrez/Documents/SpringAPP/springboot-servicio-item/src/main/java/com/proyecto/springboot/app/item/controllers/ItemController.java
+/home/mfgutierrez/Documents/SpringAPP/springboot-servicio-item/src/main/java/com/proyecto/springboot/app/item/AppConfig.java
+/home/mfgutierrez/Documents/SpringAPP/springboot-servicio-item/src/main/java/com/proyecto/springboot/app/item/models/service/ItemServiceFeign.java
+/home/mfgutierrez/Documents/SpringAPP/springboot-servicio-item/src/main/java/com/proyecto/springboot/app/item/models/service/ItemService.java
